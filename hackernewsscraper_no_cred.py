@@ -32,9 +32,9 @@ print('composing Email.......')
 #amkesure to update the oogle Low App Access setting before
 SERVER = 'smtp.gmail.com'#your smtp server
 PORT = 587 #your port number
-FROM = 'muntasir690000@gmail.com'#gmail address
-TO = 'mdmuntasirmamun00@gmail.com' # #all sending email address ,can be a list
-PASS = '01794690000'
+FROM = ''#Put your gmail address
+TO = '' # #all sending email address ,can be a list
+PASS = ''#Enter your gmail password here
 # fp = open(file_name, 'rb')
 # Create a text/plain message
 # msg = MIMEText('')
